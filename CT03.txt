@@ -1,0 +1,571 @@
+﻿e aí pessoal meu nome é pedro los e bem
+vindos ao segundo capítulo do curso de
+física básica do ciência todo dia eu
+estou animado e espero que vocês estejam
+também é
+e aí
+e no último episódio nós tratamos de
+alguns conceitos mais fundamentais e
+abrangentes da física a energia mas
+observamos como energia representa a
+capacidade das coisas mudarem por
+exemplo podemos colocar fogo em papel ou
+apertar ele e amassar mas agora nós
+vamos focar no tipo específico de
+mudança que acontece no mundo o
+movimento imagine a roda de um carro
+conforme o carro anda essa roda gira em
+torno de um eixo e isso empurra o carro
+para frente ou então imagina tentar
+seguir uma gota de chuva caindo ela
+começa a se formando na nuvem e percorre
+a distância até o chão cada vez mais
+rápido isso pode parecer óbvia e de fato
+é todos nós experimentamos movimento o
+dia todo é uma daquelas coisas que nós
+sabemos mesmo sem pensar muito sobre
+aquilo só que mesmo assim essa intuição
+que nós temos sobre como os objetos se
+movem não é preciso o suficiente para
+nos permitir construir um carro eu não
+sei com ser um carro mas precisamos de
+conceitos precisos que nos permitam
+lidar de forma metódica tanto com os
+casos mais simples
+é como uma bola rolando quanto com os
+casos mais complicados como um foguete
+acelerando rumo ao espaço então vamos
+conversar com os casos mais simples
+possível de movimento que estamos
+movimentos pontuais o que eu quero dizer
+que o movimento pontual aqui nós vamos
+começar a estudar objetos que se movem
+distâncias muito maiores do que o
+tamanho dos seus corpos e é isso que
+fazemos na vida real por exemplo para
+descrever como um carro se moveu numa
+rodovia de centenas de quilômetros mas
+não precisamos saber onde está a
+traseira ou onde está a frente do carro
+nós podemos tratar o carro apenas com um
+ponto se movendo numa linha que
+representa a rodovia e isso é bem mais
+simples então imagina exatamente isso um
+ponto sobre uma reta representando um
+carro numa rodovia nós queremos escrever
+como ele se moveu e para isso nós vamos
+medir a distância do ponto em relação ao
+começo da reta além disso a cada
+instante de tempo nós vamos marcar a
+distância do ponto em relação ao começo
+da barra e o tempo em que fizemos essa
+medida colocando isso na
+e nós podemos ter uma ideia de como o
+ponto se morreu sobre uma reta mas dá
+para fazer ainda melhor podemos colocar
+os dados que nós medimos um gráfico o
+eixo horizontal do nosso gráfico vai
+representar tempo passando mas colocamos
+nele os instantes nos quais nós fizemos
+as medidas de distância no eixo vertical
+colocamos o valor das medidas feitas em
+cada instante e por fim da temos uma
+ideia de como carro se moveu ligamos
+esses pontos com linhas nós podemos
+notar por exemplo que no trecho em torno
+dos cinco minutos o carro quase não se
+moveu a distância em relação a começo
+continua a mesma isso é representado por
+esse trecho reto no gráfico já de 2 a 3
+minutos o carro mudou bastante de
+posição o que fica evidente pela rápida
+subida no gráfico em geral é mais fácil
+ler um gráfico do que uma tabela
+especialmente para criar um entendimento
+geral de como movimento aconteceu outro
+exemplo imaginem agora que eu tenho um
+disco deslizando sobre o gelo e nós
+marcamos a sua posição em diferentes
+intervalos de tempo
+o amor é uma reta isso quer dizer que a
+cada segundo o objeto deslizando sobre o
+gelo percorre exatamente a mesma
+distância ou seja entre um e dois
+segundos o objeto percorreu dois metros
+e entre dois e três segundos ele
+percorreu mais de dois metros e depois
+de seis segundos um objeto se afastou um
+total de 12 metros à posição original
+agora vamos trocar um pouco mais
+complicado você joga uma bola contra uma
+parede ela bate e volta na sua direção
+antes de parar e novamente nós podemos
+fazer o processo de medir a lutar e
+colocar nossas informações do gráfico
+vamos tentar reconstruir o que aconteceu
+com a bola somente olhando para
+informações que o gráfico nos dá num
+primeiro momento a bola começa a se
+afastar do ponto inicial lembre-se que a
+gente está nas está no eixo vertical
+horizontal representa o tempo isso
+continua até no ponto aqui a bola para
+de se afastar e começa a se aproximar e
+vocês podem ver isso com a distância
+diminuindo ao invés de continuar
+crescendo como nos exemplos anteriores
+chega num ponto em que a bola para mim
+e jogamos a bola ela começa a se afastar
+quando ela bate ela muda de sentido e se
+move mais um pouco até parar uma coisa
+curiosa de se notar é que a distância
+final da bola em relação ao ponto de
+lançamento é de 8 metros mas a distância
+percorrida foi de 16 metros porque a
+bola se afastou 12 metros e voltou
+outros quatro depois de bater na parede
+e o estudo do movimento na física se
+resume basicamente é isso como que a
+distância entre os objetos muda com o
+tempo isso é se eu tenho uma condição
+inicial como uma bola sendo arremessada
+em uma parede ou uma gota de chuva
+caindo no céu onde esse objeto vai estar
+em um segundo e 10 segundos em termos
+matemáticos nós queremos encontrar a
+posição dos objetos em função do tempo
+por exemplo a gota de chuva e a bolinha
+estão constantemente mudando de posição
+só que para descrever precisamente o
+movimento nós precisamos de alguma
+quantidade para medir essa mudança de
+posição e essa é a ideia por trás o quê
+a velocidade que basicamente nos informa
+quanto tempo um objeto demoraria para
+percorrer uma certa distância imagine
+por exemplo um carro percorrendo uma
+estrada entre duas cidades a 100km de
+distância casa um carro demore duas
+horas para percorrer a distância entre
+essas cidades ele percorreu 100 km para
+cada duas horas em termos de velocidade
+isso quer dizer que o carro percorreu
+uma média de 50 km por hora ou seja isso
+é uma velocidade média de 50 quilômetros
+por hora e aqui mede é uma palavra chave
+dizer que a velocidade média foi de 50
+km por hora não quer dizer que o carro
+se moveu em todos os momentos a essa
+velocidade pode ser que a estrada entre
+as duas cidades seja chega de cursos ou
+pode ser que ele parou para abastecer
+quando falamos de velocidade média nós
+estamos apenas falando da distância
+final em relação ao tempo que nós
+demoramos para chegar no final do
+percurso não importa o que aconteceu no
+meio do trajeto o conceito de velocidade
+média é muito último vários cenários
+e se nós quisermos saber a distância
+total percorrida através da velocidade
+média basta multiplicar a velocidade
+média pelo tempo em que o carro andou
+mas esse conceito é um resumo um pouco
+simplista do movimento ele apenas diz
+respeito à dois pontos de um trajeto o
+final e inicial às vezes nós queremos
+entender melhor o que acontece a cada
+instante do trajeto vamos voltar ao
+exemplo do carro percorrendo na estrada
+entre duas cidades a 100km de distância
+em duas horas mas parte do trajeto é
+cheio de cor então a distância real que
+o carro vai ter que percorrer é de 150
+km ao invés de medida a velocidade média
+do carro na estrada toda nós vamos
+separar o caminho em duas partes o lado
+com muitas curvas com 50 km de estrada e
+à reta final com 100km de estrada seu
+carro demorou uma hora para percorrer
+cada trecho isso significa que a
+velocidade média dele no trecho com
+curvas é de 50 km em uma hora ou 50 km
+por hora e no trecho o resto o quê
+a 100 km em uma hora ou seja a
+velocidade média dele é de 100 km por
+hora isso quer dizer que a velocidade em
+cada pedaço do percurso pode ser
+diferente na velocidade média final e em
+geral esse vai ser o casa podemos
+imaginar agora separar da estrada em dez
+partes nós vamos ter a velocidade média
+do carro a cada 15 km se dividirmos em
+100 partes nós vamos ter a velocidade
+média do carro para cada trecho de 1,5
+km e para 10 mil partes nós temos a
+velocidade média do carro para cada
+trecho de 15 metros vamos dar um um em
+um desses trechos de 15 metros de viagem
+sem um carro demorar um segundo para
+percorrer esse trecho qual é a
+velocidade média desse carro
+é bom ele percorreu 15 metros em um
+segundo então a velocidade média é de 15
+metros por segundo se ele mantiver
+velocidade média de 15 metros por
+segundo durante uma hora ele vai
+percorrer 54 km então fazendo essa
+conversão de unidades o carro atravessou
+esse trecho a 54 quilômetros por hora
+mas não acho que esse trecho da viagem e
+muito mais muito pequeno comparado com a
+viagem toda e o carro passou apenas um
+segundo nesse trecho caso o carro tem
+atravessado esse trecho 30 minutos e 40
+segundos depois de ter saído seria uma
+boa aproximação dizer que é os 30
+minutos e 40 segundos o carro tinha ou a
+velocidade de 54 km por hora e o que nós
+estamos fazendo aqui e nos aproximando
+da velocidade instantânea do carro
+velocidade instantânea complemento
+perfeito para velocidade média enquanto
+a velocidade média responde a pergunta
+em quanto tempo uma certa distância foi
+percorrida a velocidade instantânea a
+resposta para pergunta se esse carro
+e se movendo exatamente como ele tá
+agora quanto espaço ele percorreria em
+uma terminado o tempo a velocidade média
+é de certa forma uma grandeza global ela
+se preocupa apenas com o ponto inicial e
+final a trajetória enquanto a velocidade
+em santana é só se preocupa com
+velocidade pontual do carro ou seja a
+velocidade do carro no trecho muito
+pequeno da viagem toda e a exatamente o
+que o velocímetro do carro está medindo
+por exemplo se você for ao mercado e
+logo em seguida voltar para casa a
+distância final no fim da viagem é sério
+porque você começou e terminou em casa
+então a sua velocidade média também foi
+de zero porque a sua localização inicial
+e final são as mesmas apesar disso a
+cada instante da viagem você dava um
+passo esse movimento então sua
+velocidade instantânea não era zero e
+assim como nós fizemos com a distância
+nós podemos construir uma tabela
+registrando a velocidade em santana de
+um objeto a cada instante de tempo e
+usar essa tabela para construir um
+gráfico que nos permite visualizar
+a cidade vale o nesse movimento vamos
+começar pelo caso mais simples possível
+um objeto parado a sua velocidade
+instantânea é sempre zero porque ele não
+se morre em geral o caso mais simples é
+sem graça então nós vamos para o caso
+mais simples com algo interessante para
+ser discutido que é o caso de um disco
+deslizando sobre o gelo mas já vemos o
+gráfico da posição pelo tempo desse
+objeto é uma reta inclinada ou seja o
+disco se afasta quatro metros do ponto
+de origem a cada segundo essa avaliação
+a distância é constante então se a todos
+segundo disco se move quatro metros
+então a velocidade do objeto é de 4
+metros por segundo se eu pego qualquer
+ponto do trajeto não importa o com
+pequeno a velocidade vai ser de 4 metros
+por segundo isso significa que a
+velocidade é a mesma em todo instante ou
+seja a velocidade é constante e no
+gráfico esse é uma linha reta e essa
+relação da velocidade constante com a
+posição ea velocidade é constante a
+distância percorrida é a velocidade
+vezes
+se você passou ou colocar em forma
+matemática de igual a vezes delta até
+que aqui você pode parar para pensar
+claro pedro isso é óbvio e de fato é
+óbvio mas essa relação do movimento
+uniforme é a relação por trás de todo
+tipo de movimento ela é a básica nós
+descrevemos a relação entre posição e
+velocidade até nos movimentos mais
+complicados então extremamente
+importante de entender isso vamos olhar
+para isso de uma forma um pouco mais
+gráfica nós temos a reta da velocidade e
+o tempo no eixo horizontal do primeiro
+segundo a velocidade de 4 metros por
+segundo isso formam um retângulo no
+gráfico só para fingir curiosidade vamos
+calcular a área desse retângulo que
+podemos fazer multiplicando altura que é
+quatro metros por segundo pela largura
+que é um segundo é muito importante
+prestar atenção nas unidades o resultado
+é quatro metros que é justamente a
+distância percorrida nesse intervalo
+isso não é coincidência se quisermos
+fazer a mesma coisa só que para calcular
+a distância total depois de 10 segundos
+a área do quadrado nos dar a 40 metros
+que é exatamente a distância percorrida
+no intervalo isso parece indicar uma
+importante relação entre velocidade e
+posição vamos olhar para outros exemplos
+e ver se essa relação parece de fato
+verdadeira e spoiler ela é vamos pôr
+segundo caso mais simples em que ao
+invés da velocidade ser constante ela
+vai via em ritmo constante como uma
+pedra caindo sobre o efeito da gravidade
+da terra isso significa que a aceleração
+da pedra é de 9,8 metros por segundo por
+segundo ou da maneira que você sempre
+deve ter ouvido 9,8 metros por segundo
+ao quadrado e o que isso quer dizer a
+cada segundo a pedra ganha 9,8 metros
+por segundo de velocidade a relação
+entre a aceleração e velocidade é
+basicamente a mesma que nós temos uma
+posição enquanto a velocidade nos da
+variação na posição a aceleração nos dá
+a variação da velocidade no caso da
+pedra caindo aceleração é constante já
+velocidade aumenta no ritmo com os
+em 9,8 metros por segundo por segundo ou
+seja colocando isso em um gráfico nós
+temos uma reta inclinada quanto mais
+inclinada por essa reta mais rápido
+significa que a velocidade está mudando
+isso significa que maior e aceleração
+mas e agora como é que nós podemos
+determinar a posição do objeto nós
+sabemos calcular a posição no caso da
+velocidade constante que é simplesmente
+a área debaixo da curva mas nesse caso
+não quer velocidade não é constante como
+é que você calcula a área mas podemos
+dar como se fosse um zoom no gráfico
+dividindo-o em partes bem pequenas nesse
+pedaço extremamente pequeno a inclinação
+da curva praticamente não existe e nós
+podemos aproximar isso é um retângulo
+quando nós repetimos isso para todos os
+outros pedaços embaixo da curva se eles
+forem pequenos o suficiente a uma
+interessante acontece nós temos a área
+embaixo da curva que é a distância total
+percorrida ou seja é simplesmente a área
+de baixo do gráfico da velocidade
+é igual a vezes delta t / 2 parabéns
+vocês acabaram de descobrir como uma
+integral funciona dependendo da sua
+escolha de custa no futuro você
+provavelmente vai aprender sobre elas só
+que o que você talvez não saiba é que
+você já usa elas quando nós fazemos de
+igual a a vezes delta t ao quadrado
+sobre dois distância percorrida
+aceleração vezes o tempo ao quadrado
+dividido por dois nós estamos usando o
+integral para calcular área em baixo do
+gráfico essa era uma curiosidade que eu
+não podia deixar de citar porque ele
+geralmente a gente vai falar integral e
+pensa em coisas estão muito difíceis mas
+vocês todos já estão usando isso
+diariamente ok um segundo para passar
+essa informação toda com integrais a
+gente continua o vídeo essa é uma
+relação muito comum da física em geral
+ser uma quantidade representa a variação
+de outra a relação entre elas é a área
+da curva por exemplo a área debaixo de
+um gráfico de aceleração por tempo é a
+variação da velocidade e a área debaixo
+de um gráfico de velocidade por tempo
+o que é a variação da distância de outro
+modo o quanto à posição varia é chamada
+de velocidade e o quanto a velocidade
+varia é chamado de aceleração e aqui eu
+preciso fazer uma nota de cautela
+existem casos em que a velocidade muda
+de sentido isso é de um objeto que tava
+indo pra direita ele dá volta e começa a
+se mover para esquerda e se mover para a
+esquerda é representado no gráfico como
+velocidade negativa quando nós
+calculamos a distância percorrida o
+movimento para esquerda diminui a
+distância em relação ao ponto de partida
+ou seja na hora de somar as áreas para
+calcular distância percorrida as áreas
+velocidade negativa são subtraídas da
+área onde a velocidade a positiva se o
+resultado final foi uma distância
+negativa isso significa que o objeto
+terminou para trás do ponto de partida e
+geral a direção positiva e negativa do
+gráfico tem que ser especificada na hora
+que nós vamos analisar um problema de
+física por exemplo considere uma bola
+caindo nós podemos escolher chamar a
+direção para si
+e ativa esse nós fizemos isso ao cair
+para baixo a bola tem uma velocidade
+negativa porque ela cai na direção
+oposta do que nós definimos como
+positivo mas fazer o oposto é totalmente
+válido mas poderíamos dizer que se
+aproximar do chão caindo caso é a
+direção positiva então usando essas
+definições a velocidade da bola é
+positiva porque ela tá se aproximando do
+chão e aqui tem um detalhe importante
+posição e velocidade são medidas em
+relação a algo não existe uma velocidade
+correta você sempre precisa medir
+velocidade deixando bem claro em relação
+ao que é essa é a velocidade por exemplo
+em relação à sua cadeira você está
+parado mas em relação ao sol você está
+se movendo a milhares de quilômetros por
+hora então antes de começar a descrever
+ou resolver um problema de física mas
+precisamos decidir algumas coisas para
+qual direção o movimento tem uma
+velocidade positiva qual que é o ponto
+de origem ou seja qual a posição para
+qual a distância seria zero
+e isso é mas precisamos decidir a origem
+das nossas medidas frequentemente
+chamada de origem do nosso sistema de
+coordenadas e o sentido dele ou seja as
+ligações negativas e positivas até aqui
+nós exploramos apenas um caso bem
+particular do movimento que é um
+movimento em uma única dimensão mas
+objetos do mundo real se movem para
+todos os lados carros fazem cubas e
+sobem bolos seres humanos sobem e descem
+escadas então como nós lidamos com o
+movimento em várias dimensões bom
+simplesmente fazemos o que nós fizemos
+para uma dimensão só que duas três ou
+mais vezes por exemplo para
+determinarmos a posição de uma caneca em
+cima de uma mesa nós precisamos de duas
+distâncias uma para cada borda da mesa
+por exemplo a caneca estaria 5 cm de uma
+das bordas e a 10 cm da outra corda se
+precisamos de dois números para
+descrever a posição de um objeto isso
+significa que nosso problema tem duas
+dimensões espaciais nós vivemos em um
+mundo com três dimensões pra terminar
+em mente a posição a superfície da terra
+mas precisaríamos de três números
+latitude longitude e a soltura da mesma
+forma para descrever um carro se movendo
+numa estrada cheia de curvas nós
+precisamos de três em geral para
+facilitar o raciocínio nós colocamos o
+nosso problema dentro de um plano
+cartesiano ou um cubo que representa as
+três direções para qual o carro poderia
+se mover se ele for para frente a sua
+posição no primeiro eixo muda em
+usualmente isso é chamado de eixo x se
+ele for pro lado ele muda sua direção no
+eixo y e se subir ele muda sua direção
+no eixo z mas esses são apenas nomes que
+nós escolhemos para as três direções do
+espaço é apenas um dos vários jeitos de
+representar o movimento em várias
+dimensões dessa forma o carro tem três
+posições ele está a 500 metros do ponto
+de partida no eixo x 30 no y e 100
+metros no eixo z
+e para organizar essas quantidades é
+comum colocar elas numa lista em ordem o
+primeiro número da lista é a distância
+do eixo x o segundo representa o eixo y
+e o último representa o eixos e essa
+lista de posições o carro nas três
+dimensões é chamada de vetor de posição
+e essa é a deixa perfeita para falar no
+subsetores existem dois tipos
+fundamentais de quantidades da física as
+vetoriais e as escalas quantidade de
+escalares são quantidades que precisam
+de um único número para serem descritas
+eles dão uma única informação qual que é
+a temperatura de ebulição da água 100
+graus celsius ou seja a temperatura é um
+escalar quantos litros de água cabem em
+uma garrafa 500 ml então volume também é
+um escalar quantos anos você tem 24
+então idade é um escala a ideia que você
+não tem 24 anos para esquerda ou para a
+direita você não tem 100 ml para cima ou
+para baixo você só tem 100 ml de outro
+lado nós temos a quantidades vetoriais
+e a determinar a quantidade setoriais
+nós precisamos de mais do que uma única
+informação qual é a posição do carro ele
+está a 500 metros no fx 100 metros no
+eixo y e 100 metros no eixo z vetores
+são frequentemente representados como
+setinhas em planos cartesianos e essas
+setinhas podem ser descritas de maneiras
+diferentes outro jeito de descrever as
+informações que um vetor guarda é dar o
+comprimento total dele a direção e o
+sentido para o qual lhe apontas o
+comprimento total de um vetor é chamado
+de módulo do vetor a direção do vetor é
+a reta no qual o vetor se encontra e o
+sentido do vetor é tá qual dos lados
+dessa reta ele a conta dessa forma
+quantidade vetoriais da física nos dão
+várias informações enquanto quantidades
+escalares dão uma só por exemplo a
+velocidade de um carro que é uma
+quantidade vetorial pode ser descrita
+pela velocidade do carro em cada uma das
+três direções do espaço posso diríamos
+algo como o carro se move a 30 km por
+hora para o sul e 30
+e agora proeste o que que é para dizer
+que ele se move é uma dada velocidade no
+sentido sudeste mas existe um outro
+jeito de escrever o mesmo vetor ao invés
+de dar as velocidades em direções
+diferentes nós damos a velocidade
+absoluta do carro a direção e o sentido
+de movimento por exemplo o carro tem uma
+velocidade absoluta de 42 quilômetros
+por hora na direção sudeste em um
+sentido ao litoral pelo cidade absoluta
+é uma quantidade escalar e representa a
+velocidade total de objetos levando em
+conta todas as direções para qual ele
+está sem momento usando o termo técnico
+a velocidade absoluta é um módulo do
+vetor velocidade essa foi uma aula bem
+longa mas muito importante para tudo que
+está correndo esse curso não esqueça de
+se inscrever no canal e me seguir nas
+redes sociais que estão a tela para ser
+o primeiro a saber quando o próximo
+capítulo da repulsa por lançado muito
+obrigado e até a próxima
+e aí

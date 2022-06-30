@@ -1,0 +1,329 @@
+﻿e por quê que é seu solta duas bolinhas
+juntas eu não posso ter apenas uma
+bolinha saindo do outro lado com o dobro
+da velocidade e aí pessoal meu nome é
+pedro luz e bem-vindos ao curso de
+física básica do ciência todo dia é
+bom então pensando em conservação de
+momento isso não seria problema nenhum
+concorda se a gente consegue o momento
+tudo certo antes nós teríamos duas
+bolinhas de massa m com velocidade ver o
+que dá um mesmo valor que a massa de uma
+bolinha se movendo com velocidade de 2
+ver mas não é isso que acontece sempre
+saem duas bolinhas com a mesma
+velocidade do outro lado também bom para
+entender essa pergunta nós precisamos
+entrar um pouco na história da senhorita
+emily do chá turnê que nós podemos
+considerar como uma das maiores
+cientistas francesas que já existiram e
+aí nós vamos entender também as ideias
+por trás dos conceitos de energia e
+trabalho que nós vamos discutir em mais
+a fundo no capítulo de termodinâmica a
+emily do chato lei foi uma altura
+contemporânea de newton e que também
+tinha muita competência nas áreas de
+física e matemática além disso ela
+também dedicava grande parte dos seus
+estudos da filosofia utilizando toda
+essa bagagem teórica a emily foi a
+primeira pessoa a traduzir para o
+francês a tão famosa obra tem que pelo
+new mas o seu trabalho não
+um simples assim ele foi feito com a
+incorporação dos resultados que até
+então eram inéditos na área da mecânica
+e isso enriqueceu bastante essa tradução
+tem duas teorias de live meses e
+observações experimentais the greeks and
+mãos coisa que a gente vai analisar com
+mais detalhes na hora certa aqui no
+vídeo aí ele foi capaz de chegar em uma
+conclusão sobre energia cinética que nem
+mesmo alguns nomes famosos como newton e
+vou ter haviam chegado ainda mas a gente
+chegar nesse ponto a gente precisa
+entender algumas coisas então vamos
+pensar na seguinte situação quando nós
+vendemos uma bolinha do pêndulo de
+newton nós estamos dando energia para
+ela isso é feita de uma maneira bem
+simples primeiro aplicamos uma força
+para que ela saia do repouso e mantemos
+essa aplicação de força até que ela se
+desloca para o podem que nós precisamos
+em outras palavras podemos dizer que nos
+exercitemos trabalho sobre a bolinha
+para que ela fique em vida no nosso
+cotidiano nós estamos realizando o
+trabalho o tempo inteiro quando pegamos
+um lápis que caiu no chão e suspendemos
+de volta para a mesa quando chegamos com
+compras e precisamos subir as escadas ou
+até mesmo numa academia
+se não queres em todos esses casos o que
+nós estamos fazendo é aplicar uma força
+no corpo que terá como resultado um
+deslocamento específico mas precisamos
+tomar cuidado um objeto sofre ou realiza
+trabalho apenas enquanto existe
+movimento que resulte em deslocamento
+portanto uma pessoa que está mantendo um
+peso rendido no exercício físico por
+exemplo não está realizando o trabalho
+tipo segurando assim pelo menos não a
+nível macroscópico sobre os halteres que
+ela segura o que é claro que a pessoa
+vai se cansar muito dependendo do tempo
+que não tirar os altares suspensos e
+isso acontece porque se entrarmos no
+nível microscópico penalizar as células
+musculares trabalhando mas veremos
+células esticando e contraindo então
+microscopicamente existe a realização de
+trabalho mas pensando no que a gente vê
+com os nossos olhos durante a execução
+do movimento o trabalho ali foi
+realizado quando a pessoa tirou os
+halteres no chão e os colocou na posição
+acima da sua cabeça além desse tipo de
+situação existem também aquelas em que o
+trabalho está servindo para mudar a
+velocidade de algum objeto tipo
+e aceleramos o freamos um carro com
+essas ideias nós podemos então
+generalizar que eu trabalho pode surgir
+de duas formas sendo o resultado de uma
+força contra outra força quando perdemos
+na água para vencer a gravidade quando
+empurramos um objeto contra as forças de
+atrito em outros exemplos ou sendo a
+força responsável por acelerar um objeto
+aumentando ou diminuindo sobre a
+sociedade em todos os casos o trabalho a
+entidade física responsável por
+transferir energia um corpo mas o que
+seria energia o primeiro capítulo do
+curso trata disso mas nós podemos
+resumir dizendo que a energia é a
+capacidade de se realizar trabalho e sim
+eu sei que essa definição em sua um como
+se fosse tipo um cachorro correndo atrás
+do próprio rabo conceitualmente nós não
+vamos conseguir fazer uma definição
+muito melhor do que essas mas a partir
+da linguagem matemática nós conseguimos
+sair do lugar e chegar em pontos muito
+interessantes o trabalho seria dado pela
+relação w = f vezes vezes o cosseno de
+teto ea energia bom a energia um
+pouquinho mais complicada mas calma não
+sentido de que é mais
+é mas sim no sentido de que ela pode ser
+escrita de mais de uma forma nós temos
+várias maneiras pelas quais a energia
+pode ser manifestar como por exemplo a
+energia elétrica que alimenta a sua casa
+a energia que a mata de qualquer corpo
+armazena que pode ser expressada pela
+famosa equação é igual a esse é o
+quadrado e a energia mecânica por
+exemplo para o que nós estamos tratando
+aqui nesse vídeo o que mais nos
+interessa é analisar a saúde e ela pode
+se manifestar de três jeitos diferentes
+como energia potencial gravitacional
+energia potencial elástica e energia
+cinética a energia potencial
+gravitacional é um tipo de energia que
+os objetos armazenam de acordo com a
+posição relativa deles em relação a um
+determinado ponto de referência abaixo
+deles então a bolinha do pêndulo de
+newton que nós suspendemos por exemplo
+adquirir uma energia potencial
+gravitacional que depende diretamente da
+altura que ela ganhou em relação à sua
+posição inicial mas isso poderia ser
+definido em relação ao chão também a
+única diferença que essas outras
+bolinhas todas também teriam essa
+parcela de energia e no final das contas
+que a boy
+e ainda tem uma parcela mais de energia
+em relação as outras justamente por
+causa daquela alturinha mas o peso
+levantado pelo halterofilista quando
+relevo e parado também armazena energia
+potencial gravitacional depende sempre
+da massa do objeto que nós estamos
+analisando da aceleração da gravidade e
+da altura em que o objeto se encontra a
+energia potencial elástica a partir
+dessa mesma ideia de que o objeto
+armazena energia de acordo com a sua
+posição porém dessa vez relativa de
+formação de um elástico uma mola ou algo
+do tipo em relação ao seu ponto de
+equilíbrio imaginem um estilingue se ele
+tiver parado na dele nada acontece isso
+seria a posição de equilíbrio do seu
+elástico mas quando você pega uma
+pedrinha coloca mexer estica bastante o
+elástico você está tirando ele da
+posição que ele gosta de ficar isso
+significa que agora o elástico está com
+uma energia potencial armazenada e essa
+energia tá doida para se manifestarem
+empurrar pedrinha ou se você quiser
+falar como cientista essa energia tá
+doida para realizar trabalho sobre a
+pedra assim como a lutero estava doido
+para cá
+a cabeça de um halterofilista tudo bem
+cientistas não necessariamente falariam
+assim se o halterofilista soltam ao
+terra do alto ou se a gente solta um
+elástico estilingue ou até mesmo a gente
+para de segurar bolinha do pêndulo de
+newton nós veremos que os objetos
+ganharam velocidade e assim nós entramos
+na terceira forma que energia mecânica
+pode se manifestar como energia cinética
+de um corpo possui velocidade ele possui
+energia cinética simples assim voltando
+na história da francesa a emily na época
+dela existe um grande ponto de discussão
+na área da física que girava em torno de
+uma coisa que me chamavam de um esse um
+seria uma espécie de propriedade
+exclusiva de objetos que possuem
+movimento e que é justamente o que hoje
+nós chamamos de energia cinética naquela
+época grande parte dos cientistas
+ingleses diziam que se poderia ser
+expresso fez o produto da massa pela
+velocidade ou m vezes ver tipo ideia do
+momento linear mas alguns cientistas
+como lines que contribuiu para as obras
+de emily já sustentavam que essa ideia
+hoje é chamada de energia cinética
+a ação direta com a massa do corpo em
+movimento mas diferente dos outros ele
+usava o quadrado da velocidade do corpo
+toda essa história foi finalmente
+resolvido na publicação do artigo da
+emília que fazia as referências as
+observações do gravemente a cerca de um
+experimento bem simples tudo que se
+precisava era de uma bolinha maciça tipo
+uma esfera de bronze e uma superfície
+bem deformável tipo um chão bem ardiloso
+a ideia do experimento é simplesmente
+soltar bolinha de argila e observado
+informação simples e ao mesmo tempo
+genial então obviamente quando esfera
+cai na argila ela deixa uma deformação
+mas se a esfera foi erguida um pouco
+mais de modo que ela chega com o dobro
+da velocidade nágila como que seria essa
+deformação se a relação fosse linear com
+velocidade com uma massa como algumas
+pessoas acreditavam mas deveríamos
+observar uma deformação duas vezes maior
+no entanto foi observado uma deformação
+quatro vezes maior e levando agora
+esperam em um ponto que permitisse
+chegar com uma velocidade 3 vezes maior
+eu solo obs
+a informação agora nove vezes mais
+profunda ou seja para cada aumento na
+velocidade final da esfera era observado
+o quadrado desse aumento da deformação
+nágila como a emily era uma figura muito
+respeitada na comunidade científica ela
+foi então decisiva para acabar com o
+conflito de idéias sustentando o
+argumento de que essa entidade chamada
+uns que os objetos em movimento possuem
+era proporcional a massa deles
+multiplicada pela velocidade deles ao
+quadrado hoje nós sabemos que energia
+cinética de um corpo pode ser descrita
+como e igual a um meio de mv ao quadrado
+e é exatamente isso que responde a
+pergunta inicial do vídeo ou vocês
+novamente acharam que eu estava
+esquecendo pois é no experimento do
+pêndulo de newton como via de regra não
+devemos observar a conservação do
+momento mas ela por si só não justifica
+o motivo de nunca vemos uma bolinha
+saindo do outro lado com o dobro da
+velocidade o grande lance aqui além do
+momento a energia também deve-se
+conservar então vamos lá inicialmente
+nós temos as duas bolinhas suspensas e
+apenas com
+o potencial gravitacional o que nos dá
+de acordo com a fórmula de energia
+potencial gravitacional torres mg ha-1
+soltá-las elas vão perdendo altura e
+ganhando velocidade ou seja vão ter bem
+de energia potencial e ganhando energia
+cinética até que no instante logo antes
+de colidir em as bolinhas terão uma
+energia d2 mv ao quadrado sobre 2 = mv
+ao quadrado se saísse só uma bolinha do
+outro lado com o dobro da velocidade a
+energia cinética delas seria m2v ao
+quadrado sobre 2 = 2m ver o quadrado
+isso significa que teremos a energia
+aumentando no nosso sistema o que
+violaria o princípio de conservação de
+energia então é justamente por isso que
+se você solta duas bolinhas de um lado
+nós teremos que observar duas bolinhas
+saindo do outro lado e antes que você
+saia desse vídeo energia cinética uma
+ideia é tão legal que existe um jeito de
+associar ela matematicamente com o
+trabalho sofrido ou realizado por um
+corpo a isso a gente dá o nome de teor
+a energia nele o trabalho representado
+pela letra w de um objeto pode ser dado
+pelo tanto que a sua energia cinética
+avalio representado por um delta esse
+então você pode calcular o trabalho para
+qualquer corpo que tiveram seu movimento
+alterado com base na variação da
+velocidade com essa expressão não tem
+jeito física e matemática andam juntas e
+como vocês já perceberam nesse em outros
+vídeos o curso o desenvolvimento da
+física em curto ciência depende sem por
+cento da execução de observação de
+experimentos ajuste de parâmetros e
+desenvolvimento da linguagem matemática
+e essa linguagem matemática além de nos
+ajudar a nos comunicar com o mundo nos
+permite desenvolver todas essas
+tecnologias que nos cercam tipo o
+dispositivo que você está utilizando
+para assistir esse vídeo exatamente
+agora e isso encerra o nosso terceiro
+capítulo do curso eu espero de verdade
+que vocês estejam gostando até aqui não
+esqueçam de se inscrever no canal ativar
+o sininho e me seguir nas redes sociais
+para ficar sabendo quando lançarmos o
+próximo capítulo sobre gravidade e
+gravitação
+eu quero que vocês me pedem faz tempo de
+verdade se vocês puderem fazer isso me
+ajuda muito na continuidade desse curso
+então eu espero vocês na semana que vem
+no próximo capítulo até lá a

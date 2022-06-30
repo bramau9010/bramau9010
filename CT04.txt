@@ -1,0 +1,235 @@
+﻿e aí pessoal meu nome é pedro los
+bem-vindos ao curso de física básica do
+ciência todo dia
+e aí
+[Música]
+e aí
+tá certo então vamos fazer uma breve
+revisão dos conceitos fundamentais do
+movimento que nós aprendemos no último
+vídeo o primeiro deles é a posição que
+de certa forma é o objetivo final da
+maior parte das perguntas da física qual
+é a posição de um objecto num certo
+tempo vale notar que a posição de um
+objeto em três dimensões a um vetor o
+que significa que nós temos que
+especificar informações sobre três
+direções do espaço ao mesmo tempo é
+determinar a posição de alguma coisa o
+quanto um objeto se moveu em um certo
+período de tempo é o seu deslocamento
+total e essa quantidade é escalar por
+exemplo quando eu fui visitar minha
+família no último fim de semana eu
+percorri os 80 km entre a minha casa ea
+deles então o meu deslocamento foi de 80
+km mas objetos se movem aviões voam e
+carros andam por rodovias e se mover não
+é nada mais do que mudar a posição ea
+taxa de mudança de posição de um objeto
+isso é quanto a sua posição varia a cada
+segundo é a sua velocidade
+a cidade é um vetor também nós temos uma
+velocidade para cada direção no espaço
+então da mesma forma nós podemos dar
+também a velocidade total a direção e o
+sentido do movimento mas temos a
+velocidade média que é o valor escalar
+que indica em média quantos quilômetros
+por hora um metros por segundo são
+percorridos voltando ao exemplo para me
+deslocar os 80 km até a casa dos meus
+pais isso tomou duas horas então a minha
+velocidade média foi de 40 km por hora e
+por fim nós temos aceleração que de
+certa forma é a velocidade da velocidade
+tudo que nós vemos até aqui em são
+apenas descrições de movimento mas
+aprendemos a medir entender medidas de
+movimento mas ainda não demos como
+calcular como uma bola se move estava
+consultada ou quanto tempo um carro
+demoraria para parar senão esfriarmos
+ele e antes de nós começarmos a fazer
+essas contas eu preciso de uma última
+quantidade para descrever o movimento
+porque até que nós temos um problema
+duas velocidades iguais não representam
+a mesma coisa essa cor
+a tomada de momento ou quantidade de
+movimento só que antes de definir essa
+quantidade deixa eu dar um exemplo do
+que ela significa é muito mais difícil
+para um navio se movendo a 40 km por
+hora do que uma bola se movendo a 40
+quilômetros por hora de outra maneira
+colocar o seu corpo no caminho de bolas
+de futebol ou de vôlei se envolvendo a
+40 km por hora é até considerado um
+hábito saudável agora colocar o seu
+corpo no caminho de um carro na mesma
+velocidade não é nada saudável e a razão
+disso assim eu vou cidade trata apenas
+da variação da posição do objeto ela não
+tem nenhuma relação com o próprio objeto
+velocidade representa apenas a variação
+da posição e não a quantidade de
+movimento que um corpo possui muitos
+problemas na física envolvem a colisão
+de corpos mais uma bola de boliche uma
+bola de futebol viajando na mesma
+velocidade não tem a mesma quantidade de
+movimento mas já comentamos sobre uma
+das formas de medir quanto o movimento
+um corpo tem no primeiro episódio do
+primeiro capítulo desse curso a energia
+cinética ou também
+é chamada de energia do movimento essa
+quantidade seria perfeitamente adequada
+para descrever quanto movimento um corpo
+tem só que cálculos com energia nem
+sempre são simples existe uma outra
+quantidade física que nós podemos
+definir e quem vai ser mais útil em uma
+das razões para isso é simples energia
+um escalar ela nos dá uma única
+informação quanta energia o movimento de
+uma bola ou de um corpo tem mas
+movimenta vetorial movimento tem direção
+e sentido e não só isso a direção e
+sentido de um movimento tendem a se
+manter colocando em outras palavras um
+corpo se movendo com velocidade
+constante vai continuar se movendo com a
+mesma velocidade a menos que algo para
+ele isso que eu acabei de dizer muitas
+vezes conhecido como lei da inércia foi
+proposta inicialmente por de kart
+galileu e aponta uma coisa que não é
+óbvia se um corpo mantém seu movimento a
+menos que algo mude isso a quantidade de
+movimento de um corpo se conserva além
+de procurar a lei da inércia surgiu
+também a proposta para fórmula precisa
+para determinar a quantidade de
+movimento de
+o que é a massa vezes a velocidade do
+corpo massa vezes a velocidade é
+conhecido na física como um momento
+linear e é justamente quanto o movimento
+um corpo tempo a direção e o sentido do
+movimento ou seja momento linear é um
+vetor e além de nessa pode ser explicado
+em termos de momento também o momento de
+um corpo é constante a menos que algo ao
+tênis mas qual é o algo que pode alterar
+as as questões da física relevantes na
+época em que o conceito de momento
+linear foi criado eram em geral
+perguntas sobre conexões de corpos como
+é que o movimento de uma bolinha muda
+quando outra bola mais pesada bate nela
+e aqui que entra a grande revelação
+sobre momento linear ele se conserva
+como de maneira bastante parecida com a
+energia que nós vimos o primeiro
+capítulo desse curso isso significa que
+se nós temos um monte de bolinhas de
+massa diferente se movendo em
+velocidades diferentes nós podemos
+calcular a quantidade de movimento total
+delas e ter certeza que essa quantidade
+não vai mudar tudo que essas bolinhas
+podem
+o momento umas com as outras a
+conservação de momento é bastante
+similar à conservação de energia no
+sentido de que se o nosso problema
+físico está isolado de influência
+externa tudo o que acontece são trocas
+de momento e energia e aqui tem um
+detalhe muito importante conservação de
+momento energia valem ao mesmo tempo e
+muitos problemas físicos podem ser
+resolvidos levando só esses dois fatos
+em conta isso é grandiosa o melhor
+exemplo talvez seja colisão de corpos
+rígidos que é basicamente o que acontece
+numa jogada de sinuca as bolinhas batem
+uma das outras trocam momento energia e
+seguem os seus percursos desconsiderando
+os casos em que as bolinhas batem nos
+limites da mesa a energia cinética antes
+e depois da colisão é a mesma e o
+momento antes e depois da colisão também
+é o mesmo usando esses dois fatos é
+possível calcular como as bolinhas vão
+se mover depois da colisão mas esse é um
+caso bastante dela onde as bolas são
+rígidas e não se deforma quando batem
+umas às outras esse cenário é chamado de
+colisão elástica
+o tipo de colisão a energia cinética se
+conserva gel bolas de futebol de vôlei
+quando colhido em são deformadas e
+amassadas por impactos nesse caso parte
+da energia cinética da bola é
+transformada em outros tipos de energia
+que de forma uma bola então energia
+cinética após esse tipo de colisão é
+menor do que a energia cinética inicial
+porque parte dessa energia foi gasta em
+outras coisas tipo de formar bola emite
+sons ou coisas do tipo esse tipo de
+coesão entre energia cinética
+transformada em outro tipo de energia é
+chamada de colisão inelástica e elas são
+bastante úteis carros modernos são
+feitos para amassar em o máximo possível
+em colisões porque quanto mais energia
+perdida na hora do impacto menos energia
+cinética sobra para ser passada para o
+passageiro isso literalmente salva-vidas
+nas colisões elásticas energia cinética
+pode não se conservar mas a quantidade
+de movimento sempre se conserva essa
+informação é extremamente útil para
+ajudar a resolver esse tipo de problema
+falar que momento linear é importante
+a música é simplificar a ideia de
+momento linear e conservação de momento
+é tão revolucionária que até hoje a
+maior parte do trabalho em física
+teórica é procurar quantidades que se
+conservam que se comportam de maneira
+parecida com o momento renner só para
+vocês terem uma ideia da importância eu
+vou citar alguns nos três melhores
+momentos na física é sério as minhas
+piadas são ficando cada vez piores com o
+decorrer desse força momento linear
+momento angular é momento de dipolo
+magnético existe inclusive uma técnica
+de resolver problemas as teorias mais
+recentes e atuais na física que gira em
+torno de encontrar quantidade similares
+a momento em geral um momento assim como
+o momento linear está associado a alguma
+quantidade física importante momento
+angular guarda informações sobre o
+movimento circular o momento de dipolo
+guarda informações sobre o campo
+magnético isso conclui o segundo
+capítulo desse curso que era sobre
+movimento no próximo capítulo nós vamos
+falar sobre as leis de newton e vai ser
+muito bacana então não se esqueçam de se
+inscrever no canal sério
+é importante que o meu trabalho decorrer
+desse curso e também me sigam no twitter
+e no instagram vai sair notificados
+assim que o próximo capítulo sair na
+semana que pé muito obrigado e até a
+próxima
+e aí

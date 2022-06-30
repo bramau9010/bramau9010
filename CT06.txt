@@ -1,0 +1,321 @@
+﻿se você já parou para pensar por que que
+a chuva não te mata ou pelo menos porque
+ela não te fura ou arranha ou se você
+tiver a resposta para essas perguntas eu
+e nem fiz tem mais uma por quê que a
+chuva cai em gotas se você achou essas
+perguntas estranhas bom pelo menos eu
+garanto que o caminho para entender ela
+é muito legal o meu nome é pedro luso e
+bem-vindos ao curso de física básica dos
+ciência todo dia é
+e aí
+é a essência das respostas está entender
+a segunda lei de newton que geralmente é
+conhecida como a lei da força ou
+popularmente f = m a só que antes de
+qualquer coisa interessante entender o
+que que é uma força o que que de fato
+nós queremos dizer quando falamos essa
+palavra uma força é uma grandeza física
+vetorial o que significa que estamos
+falando de algo que possui o valor uma
+direção de ação e o sentido muito bem
+definido como por exemplo quando eu faço
+uma força empurrando uma porta na
+horizontal para a direita essa é uma
+maneira chique de falar com abrir uma
+porta essa grandeza física pode ter
+quatro maneiras fundamentais e se
+manifestar através das forças
+eletromagnéticas que observamos sempre
+que tratamos da eletricidade ímãs e até
+mesmo analisando nossas principais ações
+mecânicas tipo empurra algo ou encostar
+em um objeto da forma que for já que
+qualquer toque nossa em qualquer objeto
+é na essência a interação entre átomos o
+nosso corpo com os átomos que compõem o
+objeto outra maneira é através das
+forças gravitacionais como por exemplo
+quando sentimos que algo nos prende ao
+chão
+o desesperado o simples fato de dois
+corpos possuem massa permite aquele já
+em um campo gravitacional seu redor que
+é capaz de atrair outros corpos que tem
+massa como por exemplo o planeta terra
+que possui uma massa absurdamente maior
+do que a nossa portanto nos sentimos o
+seu campo gravitacional com tanta
+intensidade que ficamos presos né ou
+podemos olhar para a lua que habita a
+terra por causa da atração gravitacional
+e por fim mas não menos importante
+através da força forte e fraca que são
+observadas nas interações mais
+elementares da matéria ela tive os
+átomos e as suas estruturas internas
+então uma força é uma grandeza física
+vetorial com origem em algumas dessas
+quatro formas fundamentais e que é
+responsável por tentar alterar a inércia
+de um objeto modificando o seu estado de
+movimento de alguma forma esse a ideia
+de nessa ela não está muito clara na sua
+cabeça eu de verdade sugiro assistir um
+vídeo que é antes desse é justamente
+sobre isso continuando a ideia da
+segunda lei de newton que nós precisamos
+entender para responder à pergunta do
+início do vídeo é isso
+a relação entre força e aceleração e
+essa lei deve expressar isso de tal
+forma que se não existe força resultante
+sobre o objeto ele não ter a aceleração
+o que é intuitivo e sua legal de
+perceber porque é uma ideia que tem
+associação direta com a primeira lei de
+newton que nós já fizemos podemos
+inclusive dizer que a primeira leia
+consistente com a segunda a ponto de ser
+considerado um caso especial dela e já
+já você vai entender porque e mais uma
+vez para falar sobre o trabalho que leva
+o nome de nilton eu tenho que citar
+galileu que nesse caso foi responsável
+por introduzir o conceito de aceleração
+como a taxa com a qual velocidade varia
+com o tempo ou a igual a ver sobre isso
+significa que se o objeto está acelerado
+ele precisa estar avaliando a sua
+velocidade e ele pode estar fazendo isso
+de forma que fique cada vez mais rápido
+ou cada vez mais lento e aí temos um
+movimento acelerado ou movimento
+desacelerar mas quando nós olhamos com
+essa ideia nós podemos perguntar o que
+que de fato produz a calda aceleração e
+bom
+é exatamente pela segunda alergia quem
+produz a aceleração é a força a segunda
+lei de newton relacionar os conceitos
+fundamentais de aceleração e de força
+com a ideia de galileu sintetizado a
+equação a = f sobre m ou a famosa f = m
+assim você preferir olhando para essa
+equação nós percebemos que a aceleração
+de um corpo é um resultado da interação
+de uma força sobre a sua massa seu
+aumento a força é o inevitavelmente
+aumento aceleração mas se eu aumento a
+massa eu aumento a inércia desse corpo
+de forma que fica mais difícil de
+alterar o seu estado de movimento em
+outras palavras a sua aceleração será
+menor do que no primeiro casa vamos
+imaginar um bloco de gelo parado no chão
+que também é de gelo tipo uma pista de
+patinação se uma força aparecer sobre
+ele tipo uma pessoa que não chamaremos
+de marcelo com essas botas de andar no
+gelo empurrando o bloco começa a se
+mover como resultado o bloco de jeová
+celular se o marcelo para de empurrar o
+bloco passa a se mover com velocidade
+constante
+é isso vem da inércia mas aplicando
+qualquer outra força no bloco o seu
+movimento será alterado de alguma forma
+seja aumentando a velocidade freiando ou
+mudando a direção quase sempre para não
+falar que é sempre a força que nós
+acreditamos sobre o objeto não é a única
+decida sobre ele no caso do bloco por
+exemplo nós temos o peso dele a reação
+normal que o chão faz sobre ele e por
+mais imperceptível que seja nesse caso
+que estamos imaginando ainda tem um
+pouquinho de atrito com o ar e com o
+chão o que é mais geralmente
+desconsideramos e eu estou falando isso
+agora porque é muito importante entender
+que a combinação de todas essas forças
+exercidas sobre um corpo qualquer é
+chamada de força resultante a aceleração
+de um objeto depende exatamente dessa
+força resultante que ele experimenta se
+a gente quer aumentar a aceleração de um
+objeto é necessário aumentar a força
+resultante sobre isso é regra a segunda
+lei de newton é uma ferramenta muito
+poderosa que nos permite resolvendo
+muitos problemas importantes ela é tão
+poderosa que muitas vezes na física mais
+poder
+é claro que nós chamamos de forças
+dissipativas como o atrito e o arco eu
+já falei de qualquer superfície ou de um
+fluido e ainda assim nós vamos obter
+resultados bem próximos do que nós
+teríamos na vida real considerando essas
+coisas e e pistão impressionante mas
+beleza o quê que isso tudo tem a ver com
+as perguntas do início do vídeo bom a
+chuva não te mata fura ou arranha porque
+ela sofre interação com outras forças ao
+longo da queda que vão deixar elas bem
+mais lentas do que ela gostaria o que é
+bom para nós no caso no caso do bloco de
+gelo como eu disse os atritos eram
+desprezíveis mas para uma gota de chuva
+o atrito com o ar ou a resistência que o
+ar oferece seu movimento não é nada
+desprezível uma gotinha tem muito pouca
+massa se comparada com um bloco de
+gênero e portanto ela tem uma inércia
+bem menor o que significa ter muito mais
+fácil de parar ela ou alterar o seu
+movimento de qualquer forma então você
+não existisse ar no caminho da gota
+durante a queda gravidade estaria
+causando um aumento constante de
+velocidade de modo que uma única
+quem seria capaz de atingir o solo com
+19 mil e 600 metros por segundo essa
+velocidade é 18 vezes maior do que me
+tirou de um projétil de uma pistola
+calibre 38 tipo com essa velocidade uma
+gota seria capaz de fazer um estrago no
+ser humano tranquilamente e eu não
+preciso ser mesmo tipo de mago para
+afirmar isso mas o fato é que existe ar
+no caminho da gota e ele tem um papel
+fundamental que a gente não sofra com a
+queda dessas assassinas a resistência do
+ar é um tipo de força aqui na física nós
+chamamos de força de arrasto e a única
+coisa que a gente precisa saber sobre
+isso aqui nesse vídeo é que essa força
+aumenta à medida que a velocidade da
+gota me isso significa que a medida que
+a gota cai aceleração da gravidade faz a
+sua velocidade aumentar mas quando sua
+velocidade aumentando a força de arrasto
+também aumenta e vai aumentando até
+chegar no ponto a gente fica com o mesmo
+valor que a força que é gravidade puxa a
+botinha ou seja o seu peso a partir
+desse ponto a força resultante sobre a
+gotinha será nula e como aprendemos na
+primeira lei de
+e quando a resultante das forças sobre o
+objeto é nula ele continua em seu estado
+de movimento só que sem aceleração então
+no caso da gota de agora em diante ela
+continua sua queda com uma velocidade
+que nós chamamos de terminal velocidade
+terrena ou seja constante porque não
+existe mais aceleração né é com base
+nessa ideia que um paraquedista pode
+pular de um avião tranquilamente tendo a
+certeza que ao abrir o paraquedas vai
+surgir uma força de arrasto que vai
+anular o efeito do seu peso isso vai
+acontecer no momento ideal hoje
+paraquedista ter a velocidade terminal
+que ainda é segura para o pousa
+velocidade terminal e velocidade onde a
+força de arrasto se iguala com o peso e
+o movimento se torna retilíneo uniforme
+o famoso mr e deixa eu te fazer outra
+pergunta aqui o que cai mais rápido uma
+pena ou uma bola de boliche por muito
+tempo na história da humanidade
+acreditava-se que quanto maior a massa
+de um corpo maior o seu peso e por isso
+ele cairia mais rápido do que um corpo
+de pequena massa de fato quanto maior a
+massa maior o peso é
+é daquela equação da aceleração de um
+outro jeito e nós veremos que fica fácil
+de concordar com isso então a força peso
+é igual a massa vezes a gravidade mas
+temos uma aceleração igual para tudo que
+estão a superfície da terra que a
+aceleração da gravidade e quanto maior a
+massa de um objeto localizado na
+superfície da terra maior será a força
+peso que essa aceleração da gravidade
+vai dar para objeto só que o grande
+lance é que o tempo de queda não depende
+do peso e sim da aceleração em tese tudo
+deveria cair com a mesma sobre ação que
+é aceleração da gravidade só que
+geralmente nós vemos objetos mais leves
+caindo mais devagar do que outros
+objetos mais pesados uma bola de boliche
+no nosso dia a dia cai muito mais rápido
+do que pensa mas isso acontece apenas
+porque nós lidamos com a resistência do
+ar o tempo inteiro nas nossas vidas
+existem várias variações desse
+experimento algumas foram feitas até na
+lua por incrível que pareça tem vídeo
+disso mas o importante é o resultado nós
+vemos o objeto com mais massa
+tô saindo com a mesma aceleração do
+objeto com menos massa é o que nós
+esperávamos de acordo com as nossas leis
+entender isso significa dar um salto na
+maneira como nós vemos o mundo o que
+importa não é a ação de uma outra força
+isolada em um corpo e sem a soma de
+todas o que importa nesse tipo de
+análise é a força resultante e não só
+numa situação de queda que nós devemos
+fazer esse tipo de análise o bloco de
+gelo do início do vídeo poderia ser um
+caso entender qual o limite de
+velocidade aqui um carro aguenta fazer
+uma curva sem derrapar poderia ser outra
+ou até mesmo entender porque que a chuva
+cai em gotas espera aí ó
+por isso não respondi ainda né então
+parte da resposta é um pouco complicado
+para ser tratada nesse vídeo porquê
+depende do entendimento da estrutura de
+um líquido forças de coesão e outras
+interações que não são o foco desse
+vídeo mas que são nos próximos capítulos
+esse curso mais um pedaço da resposta
+para isso também está na resistência do
+ar vamos exagerar um pouco imaginar um
+bloco de água cai a existência do ar a
+queda desse bloco inevitavelmente já
+seria responsável por espalhar água em
+gotas ela não cairia como um bloco tipo
+quando você joga um balde de água e a
+água não cai exatamente no formato que o
+balde tinha água se espalha na verdade
+nós nem precisamos forçar tanto a barra
+mas o olhar para uma cachoeira alta na
+sua base muitas vezes o que chegam uma
+espécie de chuva com gotas grossas que
+às vezes machuca no fim das contas se
+não fosse a resistência do ar a água não
+só chegaria ao sol como a velocidade
+devastadora como também chegaria em
+forma de grandes blocos ao invés de
+pequenas e isso não seria nem um pouco
+legal isso concluir nossos
+fim do capítulo mas ainda temos mais e
+eu espero vocês lá não esqueçam de se
+inscrever aqui no canal ativar o sininho
+para ver quando eu tenho mais vídeos do
+capítulo e isso vai ajudar muito no
+progresso do canal eu peço isso de
+verdade então vejo vocês agora no
+próximo vídeo já tá aqui no whats
+[Música]
+e aí

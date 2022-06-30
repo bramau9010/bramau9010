@@ -1,0 +1,291 @@
+﻿e todo objeto permanece em seu estado de
+repouso ou de rapidez uniforme em uma
+linha reta a menos que uma força
+resultante não nula seja exercida sobre
+ele essa é a célebre frase formulada por
+nilton que foi publicado em seu livro
+pinkie pie muita gente já ouviu falar
+sobre ela e alguns até usam dar um
+sentido metafórico para ideia que ela
+retrata mas a pergunta que eu faço é
+você realmente entende a primeira lei de
+newton o que que essa tal de inércia
+atende tão especial ii
+e aí
+o ok então o que que tem de mais
+entender que um objeto que está parado
+quer ficar parado e que um objeto em
+movimento ou simplesmente quer continuar
+em movimento parece fácil interpretar as
+ideias contidas nesta lei e hoje para
+gente talvez até seja mesmo mas tá aqui
+isso se tornasse algo tão palatável
+assim a ideia é que muita gente
+trabalhou bastante ao longo de anos e
+anos isso até que você chegasse no ponto
+aqui um cara como newton conseguir
+sintetizar tudo em poucas palavras um
+grande exemplo que nos ajuda a ver como
+essa ideia é de fato algo complexo que
+dependeu de muita coisa para se
+desenvolver é voltar anos e anos atrás
+entender como as primeiras pessoas a
+tratarem dessa problemática pensaram
+para aristóteles por exemplo que viveu
+praticamente dois mil anos antes de
+newton o movimento dos corpos era
+dividido em duas categorias o movimento
+natural e o movimento violenta as coisas
+que se movem por elas mesmas tipo nós
+humanos e outros animais possuem um
+movimento natural os objetos que
+dependem de outros agentes para se mover
+teriam que ser
+o movimento violento yuri seus registros
+alisson te disse aqui ninguém pode dizer
+que um objeto uma vez colocada em
+movimento deveria parar em algum lugar
+pois porque ele deveria parar que e não
+ali assim um objeto estará em repouso ou
+então se envolver até o infinito a menos
+que alguma coisa mais poderosa o impeça
+dia sim fazer repare como que isso se
+parecem com o princípio da inércia mas
+na verdade é uma afirmação sobre a
+homogeneidade do espaço sob essa ótica
+se não houvesse nenhuma resistência um
+objeto nunca pararia de se mover mas um
+lance aqui isso levava aristóteles
+acredite no vaco não poderia existir
+dessa forma para aristóteles a ideia de
+movimento infinito era absurda indo mais
+adiante se tudo que não tem movimento
+natural tipo um objeto inanimado
+qualquer como uma flecha se encontra em
+movimento isso significa que ela
+precisaria ser removida por alguma outra
+coisa porque se o objeto não possui em
+si mesma fonte do seu movimento porque
+ele não tem movimento
+e nós seres humanos temos ele deve ter
+sido movido por algo e não por ele mesmo
+então por indução aristóteles evoca a
+ideia de que deveria ver no final de
+tudo um primeiro motor que ele chama de
+deus na loja de cadeira é impossível
+mover um objeto sem tocar nesse objeto e
+disso surge um problema como que uma
+flecha seria capaz de continuar se
+movendo depois de ser empurrada pela
+cordinha do arco para esse tipo de caso
+aristóteles tentou evocar algumas
+explicações como o ar ser responsável
+por empurrar flecha só que isso fazer
+entrar em contradição porque o ar seria
+o causador tanto do movimento quanto
+responsável pela resistência ao
+movimento então como que ele seria os
+dois por muito tempo as ideias relativas
+ao movimento dos corpos não se
+desenvolveram muito então vários anos
+depois na idade média começaram a fazer
+uma distinção entre cinemática e
+dinâmica dois nomes que vocês já
+conhecem acreditando que o movimento
+podia tanto ser estudado do ponto de
+vista da causa como defeito
+se desenvolveram um conceito de
+velocidade que poderiam atribuir um
+valor numérico e distinguiram velocidade
+de velocidade instantânea e definir o
+movimento uniforme e uniformemente
+variado coisa que nós já trabalhamos
+bastante no vídeo sobre o movimento e
+velocidades jean buridan foi buscar as
+que apresentam a teoria do movimento
+mais detalhada nessa época melo
+projetante ou arremessador é responsável
+por transmitir ao projection uma
+qualidade permanente que ele chamou de
+ímpetos e que era responsável pela
+continuação do movimento do projétil ao
+longo da direção imposta sobre ele do
+início dessa maneira de atribuir o
+movimento uma causa interna e não
+externa e para ele esse lance do impetus
+funcionaria mais ou menos como um
+atiçador que depois de ser retirada do
+fogo mantém essa qualidade e quente o
+que vai diminuindo lentamente o ímpeto
+ainda difere do conceito de inércia por
+ser uma força motriz interna comunicado
+o corpo mas repare que bonita é a
+maneira como uma ideia vai se
+e do tempo ketlin anos mais tarde foi o
+primeiro a finalmente usar a palavra
+inércia no estudo do movimento mas não
+para expressar a permanência do
+movimento ou repouso na ausência de
+forças e sempre afirmar que a matéria
+não começava a se mover por si mesma e
+se ela tivesse movimento ele não
+persistiria no fim das contas aí nessa
+que é poliana expressa a crença
+aristotélica de que os corpos tendem ao
+repouso mas chegando nos trabalhos de
+galileu mais um nome muito famoso de uma
+pessoa brilhante que ajudou bastante
+desenvolver vários elementos da física
+do método científico encontramos
+passagens onde o movimento é nitidamente
+tratado como algo extrínseco a natureza
+dos corpos as em movimento e repouso são
+tratados como estados de um corpo e isso
+pô enfim naquela distinção aristotélica
+entre as coisas galileu interpretou o
+movimento como um tipo de ser e não como
+um processo igual gnv interpretado com
+aquela ideia de ímpeto por exemplo ele
+afirmou que o estado de movimento perns
+e vera e não precisa de um agente para
+isso é um esboço de alto nível da ideia
+que nós temos hoje de que o o
+e tem que ficar parado em um objeto em
+movimento tende a permanecer em
+movimento retilíneo uniforme mais um dos
+fatos que nos impede de bater o martelo
+de que essa seria lei de galileu e não
+de newton é que hoje todos os termos
+usados na física são muito bem definidos
+mas isso só aconteceu depois de newton
+até galileu por exemplo não existe uma
+definição exata que diferenciava alguns
+termos como força momento ímpetos e etc
+newton foi quem realmente conseguiu
+atribuir sentido físico essas coisas
+dando um fechamento matemático
+extremamente necessário para que os
+conceitos de fato fizessem sentido um
+objeto qualquer seja uma bola de boliche
+nave uma formiguinha ou até mesmo você
+tem uma tendência repouso ou a
+permanência do movimento entender todo o
+conceito por trás da primeira lei de
+newton significa entender que a inércia
+ou essa tendência tem uma relação direta
+entre quantidade de massa em movimento
+imaginava a comparação entre nave uma
+formiga ambos estão parados e você quer
+colocados em movimento os dois casos
+e esse resistência é sair do repouso
+porque pude nessa eles têm a tendência
+de permanecer em seu estado parado mais
+um navio vai oferecer muito mais
+resistência sair do repouso porque ele
+tem muito mais massa se ambos já
+estivesse se movendo eles teriam a
+tendência de continuar o seu movimento e
+na ausência de forças externas ele
+simplesmente continuar livro se mover
+com uma velocidade constante em linha
+reta você com suas próprias mãos não
+seria capaz nem de fazer cosquinha no
+navio ele simplesmente continuaria se
+mover talvez a água te ajuda nem um
+pouco com atrito e quem sabe o ar também
+mas ainda assim o navio continuaria a se
+mover por um bom tempo já no caso da
+formiga sempre resistência do ar já
+seria capaz de alterar o seu movimento e
+quem sabe até um leve sopro já seria o
+suficiente para fazer ela parar ou sai
+voando por aí eu acredito que a parte
+mais difícil de toda essa história é
+entender que não ausência de forças ou
+sobre uma força resultante nula um corpo
+sempre ficará parado ou em movimento
+retilíneo uniforme es
+a nossa vida estamos sempre lidando com
+força de atrito com superfícies
+existência do ar e outras forças outra
+coisa importante a notar é que o grande
+salto de galileu sobre olhar de muitos
+autores é que ele deu uma nova visão ao
+estudo da natureza que passou a ser
+examinada de maneira muito mais ativa ao
+invés de passiva aristóteles por exemplo
+realizou muitas observações mas não
+experimentação que é o elemento que faz
+toda a diferença na ciência mas o ponto
+principal ué essa ideia aparentemente
+simples que hoje nós gastamos alguns
+segundos para ler e no máximo algumas
+aulas para entender foi fruto de séculos
+de trabalho entender que todo objeto
+permanece em seu estado de repouso ou de
+rapidez uniforme em uma linha reta a
+menos que uma força resultante não nula
+seja exercida sobre ele nos permitiu
+melhorar inúmeras tecnologias de
+maneiras que talvez você nunca tenha
+parado para pensar como por exemplo uma
+pequena importantíssimo a mudança que
+tornou os carros muito mais seguras
+vocês se arriscam a dizer qual tudo bem
+que existem muitas melhorias que tem
+relação direta
+a lei de newton assistindo alguns vídeos
+de teste de batidas do passado e do
+presente já dá para termos algumas
+ideias bem legais de algumas delas e com
+essa vastidão de opções para palpitar eu
+arrisco dizer que muitos de vocês estão
+pensando em grandes mudanças estruturais
+os carros como lataria air bag cinto e
+outras coisas mas eu estou falando de
+algo muito mais direto muitos carros
+antigos como os primeiros fuscas do
+passado simplesmente não tinha um
+encosto de cabeça e esse pequeno detalhe
+foi responsável por inúmeras lesões o
+pescoço de motoristas e passageiros isso
+porque dependendo da forma como um carro
+sofre uma colisão traseira o impacto é
+sentido direto no pescoço ea seriedade
+da lesão pode ser grande imagine que
+você está parado no trânsito em um carro
+cujo o banco não tem um custo para
+cabeça e de repente vem um outro carro
+com grande velocidade e pa colidiu com a
+traseira a princípio o seu carro estava
+parado em com ele você também mas do
+nada seu carro começou a se movimentar
+bruscamente para frente pensando um
+pouco nas ideias por
+a lei de newton fica fácil perceber que
+o seu corpo tem a tendência de ficar
+parado mas como o banco empurra seu
+corpo para frente ele começa a se mover
+sem muito mistério só que como não ao
+encosto de cabeça para empurrar o seu
+crânio junto com o resto do corpo para
+frente por inércia a sua cabeça tende a
+ficar parada e como resultado você sente
+o tranco no pescoço dependendo da
+velocidade esse tranco pode trazer
+sérios riscos para coluna esse foi um
+problema clássico da engenharia que
+precisou passar pelas mãos análise de
+qualidade e melhoria contínua envolviam
+uma pequena parte de um conceito que
+hoje para gente é básico um objeto em
+repouso tende a permanecer em repouso e
+só sairá desse estado se uma força
+resultante diferente de zero surge sobre
+ele esse conceito extremamente
+importante e força o primeiro vídeo do
+capítulo então esperem cliquem ali vão
+ver o próximo vídeo que nós temos mais
+coisas para tratar nesse capítulo vejo
+vocês nos próximos vídeos um
+g1

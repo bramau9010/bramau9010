@@ -1,0 +1,296 @@
+﻿e no ano de 1.765 a peste bubônica que
+arrasava inglaterra finalmente chegava
+em cambridge a universidade que hoje é a
+segunda mais antiga ainda em
+funcionamento na inglaterra igreja como
+alunos algumas das pessoas mais
+brilhantes da terra obrigou isaac newton
+classes ou lá na sua fazenda em dia em
+concha área isolada de continua seus
+estudos em matemática e iniciou seus
+estudos em mecânicas em 1666 nilton
+voltou para cambridge mas acabou tendo
+precisou lá novamente por causa da peste
+talvez esse período tenha sido um dos
+mais importantes do início da
+formalização da sua teoria mecânica em
+1687 a humanidade vivenciou talvez o que
+tenha sido o maior salto na produção de
+conhecimento da história estava formado
+o primeiro trabalho alcançar a condição
+de ciência teórica e empírica como
+conhecemos hoje era finalmente publicada
+sua obra philosophiae naturalis
+principia mathematica ou para os mais
+íntimos o bem que o meu nome é pedro
+luso e bem-vindos ao curso de física
+básica do ciência todo dia é
+[Música]
+e aí
+e nessa obra introduzidas as leis da
+natureza que acabaram conhecidas como as
+três leis de newton elas foram os temas
+dos últimos três vídeos esse capítulo
+mas mesmo assim vale a pena recapitular
+a primeira lei de newton também
+conhecida como a lei da inércia nos diz
+que todo o corpo permanece em seu estado
+de repouso ou de movimento uniforme em
+linha reta ao menos que eu sofri alguma
+força que obriga a mudar de estado a
+segunda lei de newton também conhecida
+como princípio fundamental da dinâmica
+ou simplesmente a a lei do fhm a nos diz
+que uma força resultante em um corpo irá
+causar uma aceleração proporcional essa
+força e inversamente proporcional a
+massa nós podemos dizer que a massa é
+uma medida quantitativa da inércia da
+primeira lei então quanto maior for uma
+massa mais difícil será o terá o seu
+estado f = m a e finalmente nós temos a
+terceira lei de newton que diz que se um
+objeto exerce uma força em outro o outro
+vai descer uma força de mesma
+intensidade mas em sentido oposto no
+primeiro essas três leis foram
+suficientes para mudar toda entendi
+o movimento consolidado desde
+aristóteles até então haviam
+entendimento de que os objetos se moviam
+devido ao seu lugar natural baseadas na
+noção dos quatro elementos terra água ar
+e fogo e além disso tem um objeto
+continuar se movendo ele precisaria
+constantemente está sofrendo ação de uma
+força dentro dessa visão aristotélica vi
+uma física terrestre e uma física
+celeste na qual os astros eram esferas
+perfeitas e imutaveis mesmo newton no
+começo dos seus estudos sobre mecânica
+acreditava que existe uma força interna
+que mantinha os objetos se movendo na
+verdade ele percebeu que o movimento é
+algo tão natural quanto está parado isso
+era revolucionário para ciência da
+áfrica além disso com a sua teoria
+mecânica foi possível unificar física da
+terra com a física dos astros newton
+percebeu que as forças que nos mantém
+presos na terra então as mesmas que
+fazem a lua aumentar nosso planeta ou
+que nos faz orbitários só mesmo que
+pareça distante da nossa realidade essa
+nova forma de pensamento que se
+consolidava no meio científico como é
+em inúmeras aplicações do nosso dia a
+dia e esse conhecimento é usado como
+base praticamente exclusiva de cursos
+como engenharia mecânica engenharia
+civil até hoje mais de 300 anos após a
+sua formulação mas nós não precisamos ir
+até longe para entender as aplicações
+dessa nova teoria imagine que você está
+numa rua e um carro sem freios vem na
+sua direção pelas suas costas antes que
+você pudesse sair da frente ali chega
+até você e o atingir uma velocidade de
+30 km por hora você é capaz de ser
+atropelado por um carrinho de beber só
+que sem o bebê dentro um país desatento
+pegou o bebê no colo e sem querer o
+carrinho de sehun and nada até que a
+gente atingisse apesar do susto o
+carrinho de bebê foi freado pelo seu
+corpo sem que você quer se machucar se
+só meio que tomar um súbito empurrão que
+nem deu um susto agora se você estava na
+sua mente imaginando um carro de verdade
+com os mesmos 30 km por hora folha de
+indo contra você você certamente
+imaginou que o estrago seria maior mas
+porque haveremos de
+é tão grande entre esses dois objetos
+mesmo que eles atingissem com a mesma
+velocidade vamos voltar na primeira lei
+além da marca ela disse que todo o corpo
+permanece no seu estado de repouso ou de
+movimento uniforme em linha reta a menos
+que sofra alguma força que obrigue a
+mudar de estado nesse caso fosse um
+carrinho de bebê fosse um carro de
+verdade eles tenderiam a manter o seu
+estado natural de um movimento até que
+sofressem uma força que eu fizesse parar
+da mesma forma o seu corpo entender ia
+ficar parado até que sofresse uma força
+vinda do carro a diferença aqui para nós
+acaba sendo relativamente em curitiba
+seria pior ser atingido pelo carro de
+maior massa é traduzir as duas situações
+e matemática mas podemos dizer que ambos
+a 30 quilômetros por hora possuem um
+momento ou quantidade de movimento
+diferente essa quantidade física que nós
+chamamos de momento pode ser definida
+como o produto entre a massa de um
+objeto e a sua velocidade ou em termos
+matemáticos q = mv isso significa que o
+carrinho de bebê
+o digamos assim 10kg a 30 km por hora
+possui uma quantidade de movimento de
+83kg metros por segundo é importante nós
+não podemos esquecer de converter 30 km
+por hora em metros por segundo por isso
+que talvez se você fez o cálculo agora
+deve ter dado diferente já um carro de
+aproximadamente mil quilos na mesma
+velocidade tem uma quantidade de
+movimento de oito mil e trezentos
+quilogramas metros por segundo uma
+quantidade 100 vezes maior que o
+carrinho percebam que existe uma relação
+direta entre as massas um carro 100
+vezes mais massivo do tem um carrinho de
+bebê tem um momento 100 vezes maior 14
+importante constatar uma teoria de
+newton que a quantidade de movimento é
+uma grandeza vetorial que se conserva
+quando lemos um sistema isolado por
+exemplo quando estamos falando somente
+do sistema formado pelo carrinho de bebê
+e a pessoa atingida na situação logo
+antes de a pessoa ser atingida toda a
+quantidade de movimento se encontra
+apenas no carrinho de bebê porque ele tá
+se movimentar mas assim que ele atropela
+a pessoa ele
+o que é uma força na pessoa que pela
+terceira lei de newton também exerce uma
+força no carrinho que vai fazer elevar
+após a colisão o carrinho então é parado
+completamente e a pessoa ganha a
+quantidade de movimento que antes estava
+no carrinho uma pessoa de 83kg seria
+empurrada para frente com uma velocidade
+de 1 metro por segundo conservando a
+quantidade inicial de 83kg metro por
+segundo se nós olhamos a situação em
+termos a segunda lei de newton podemos
+deduzir um importante a teorema de
+maneira simplificada nós podemos
+reescrever f = m a trocando aceleração
+pela variação da velocidade em relação
+ao tempo dessa forma nós teríamos f = m
+vezes delta vez sobre delta t de outra
+forma passando o termo da variação
+temporal para o lado da força na equação
+mais teríamos f vezes del katz = m vezes
+deltav já conhecemos o produto entre
+massa e velocidade então m vezes delta v
+pode ser dito como uma variação da
+quantidade de movimento lembre-se delta
+q = mv delta
+e essa variação da quantidade de
+movimento se relaciona com a força que o
+objeto sofre durante o intervalo de
+tempo em outras palavras para frear um
+carrinho de bebê naquela primeira
+situação seria necessária uma pequena
+força no intervalo de tempo já para
+frear no carro de verdade na mesma
+velocidade seria necessário que nós
+fizéssemos uma força bem maior no mesmo
+intervalo de tempo o que fizéssemos a
+mesma força no intervalo de tempo bem
+maior eu não exemplo com números para
+frear o carrinho de bebê no intervalo de
+apenas um segundo mas precisaríamos
+exercer uma força de 83 minutos o
+equivalente a segurar um haltere de mais
+ou menos 8,3 kg só que para frear o
+carro também com um segundo mas tem
+nenhuma que fazer uma força de oito mil
+e 300 mil como provavelmente você não
+tem essa força nada contra a alternativa
+seria não frear o carro e no segundo mas
+sem aumentar o seu tempo disponível para
+chegar em 10 segundos seria necessária
+uma força de 830 mil tons que já se
+torna bem mais fácil considerando que
+essa força equivalente ao peso de uma
+pessoa de 83
+ah mas tudo bem eu sei que pensar com
+colisão de carros já não parece uma boa
+ideia nós podemos ver outras coleções
+mais simples em bolinhas de metal
+enfileirada um brinquedo que não à toa
+acabou ganhando o nome de pêndulo de
+newton as bolinhas tem o mesmo tamanho e
+a mesma massa o pêndulo de newton nos
+permite além de observar a conservação
+de energia verificar conservação de
+momento primeiro nós puxamos a gordinha
+e em seguida as outras essa bolinha
+então colide na manhã seguinte que
+transfere o seu momento para bolinha
+seguinte que também transferência
+momento trabalhar em seguinte e também
+transferir o seu momento para bolinha
+seguinte que por sua vez não tem para
+onde a transferência momento e acaba
+saindo com a mesma velocidade aqui a
+primeira bolinha chegou ao tocar na
+seguinte você vai seguramos duas
+bolinhas e solta no simultaneamente
+vamos sair duas bolinhas do outro lado
+com a mesma velocidade das duas ao
+atingir as demais soltando três bolinhas
+acontece o novo a quantidade de
+movimento vai ser conservar sempre junto
+com energia o entendimento do mundo a
+partir da te
+a clínica de newton não serve somente
+para colisões apesar de ter uma grande
+aplicabilidade nessa área nós sabemos
+que batida de trânsito causa uma súbita
+variação da quantidade de movimento de
+todo o veículo e quem está dentro de um
+carro acaba sofrendo forças muito
+grandes capazes de ferir gravemente
+qualquer passageiro entendendo que é
+possível minimizar essa força sofrida
+diluindo ela não tem como dispositivos
+como cinto de segurança airbag nós
+podemos salvar milhares de vidas no
+trânsito por ano mas para além disso é
+com esses princípios que somos capazes
+de mandar foguetes para fora da terra um
+foguete prestes a ser lançado está com
+seu tanque de combustível cheio ele está
+parado com uma quantidade de movimento
+no mas assim que eu sou combustível
+começa a ser ejetado para baixo o
+foguete e começa a sofrer uma força para
+ser impulsionar é a quantidade de
+movimento do combustível ejetado somado
+a quantidade de movimento ganha pelo
+foguete continuando lula pelo princípio
+de conservação desta propriedade então
+um foguete acaba ditando vapor de água
+proveniente da queima de hidrogênio uma
+velocidades
+oi gente incrível ele finalmente é
+propulsionado para cima e mais uma vez
+nós podemos alcançar os astros usando a
+mesma física aqui da terra como a
+revolução conceitual que acabou com mais
+de mil anos do pensamento aristotélico
+de que os astros eram perfeitos e
+mutáveis e talvez inalcançáveis e esse
+capítulo ainda não acabou nós ainda
+temos mais um vídeo nele não esqueça de
+se inscrever no canal clica em gostei e
+eu espero vocês no próximo vídeo que
+deve estar aqui até já é
+e aí

@@ -1,0 +1,216 @@
+﻿E aí
+[Música]
+a falar pessoas esse é mais ou menos
+todo dia Tec Toy
+O que quer dizer eu sou a Mila cientista
+da Computação professora divulgadores de
+ciência e tecnologia no canal
+peixe-babel eu sou Guilherme Silveira
+cientistas de dados instrutor na lua
+cursos online de tecnologia e o que é o
+que é um rato com asas Hoje a gente vai
+falar do dispositivo mais utilizado pelo
+novo Batman as suas lentes de contato
+será que é algo próximo daquilo poderia
+existir mas atenção esse vídeo contém
+leves spoilers do novo Batman o Batman é
+um dos personagens mais icônicos da DC
+dentre muitas razões por causa dos seus
+instrumentos tecnológicos por isso
+Neurologia Tec oferecido pela alura é o
+lugar perfeito para analisar o que tem
+de real naquele cinto de utilidades a
+loira te ensina o que tem de mais atual
+na tecnologia com o repositório imenso
+de cursos que vão desde a base da
+programação até tecnologias mais
+avançadas você pode aprender por exemplo
+soluções de visão computacional que são
+a base de sistemas como reconhecimento
+facial utilizado pelo Batman e tem 10
+por cento de desconto na assinatura é só
+visitar
+alura.com.br/promoção Barras supertech e
+aproveitar esse Universo de conhecimento
+na aparição mais recente do Cavaleiro
+das Trevas solado detetive foi um dos
+principais destaques da trama com o
+objetivo de capturar um charada bem
+menos colorido que os quadrinhos mais
+igualmente perturbado o Batman usa e
+abusa da tecnologia e do Alfred tá
+desvendar os enigmas encontrados o
+melhor detetive do mundo segundo o
+próprio diretor matrizes é também
+acompanhado dos melhores dispositivos
+que a tecnologia Pode prover e entre um
+uniforme à Prova de Balas luvas de
+choque que não paraquedas um tanto
+questionável quando os dispositivos foi
+protagonista tanto da tecnologia de
+ponta como no desenrolar da narrativa as
+lentes de contato do Batman
+apresentada em outras primeiras cenas do
+filme as lentes são equipadas com
+câmeras que registram tudo que o Batman
+ver nas suas investigações não pegada
+literalmente muito Black Mirror o motivo
+permite revisitar todas as imagens
+capturadas possibilitando analisar os
+enigmas do Charada na companhia do
+Alfred E no conforto da bat-caverna
+pensando somente nessa primeira cena o
+Bruce vai me conectar lente de contato
+ao seu computador como se fosse uma
+espécie de pen drive sugerindo que todo
+o conteúdo gravado foi armazenado na
+própria lente então além da câmera a
+lente precisaria comportar algum sistema
+de armazenamento tipo um cartão de
+memória em escala nano capaz de
+registrar horas de investigação mas não
+é só isso e agora vem a parte mais
+complicada assim como todo o dispositivo
+tecnológico essas lentes precisam de
+alguma fonte de energia sim
+baterias sabe aquelas coisas que
+esquentam em alguns casos são bem
+perigosas Pois é a bateria é essencial
+para alimentar a na câmera e onan no
+cartão das bate lentes a parte
+interessante aqui de certa maneira essa
+tecnologia já existem lente de contato
+tem sido muito exploradas por exemplo
+como os
+médicos é o caso da sensymed uma lente
+já aprovada para uso nos Estados Unidos
+que é o nome do dia mede a pressão
+ocular de pacientes com suspeita de
+glaucoma ou o falecido o projeto da
+Google que incorporou nas lentes e
+sensores de nível de glicose para
+pacientes com diabetes o que essas
+lentes tem em comum quadro Batman é que
+todas precisam de uma fonte de energia e
+a solução mais popular até o momento é o
+carregamento por indução a mesma
+tecnologia que vem celulares mais
+modernos e permitem o carregamento sem
+fio e apesar de só agora a gente estava
+vencendo o lançamento de carregadores
+sem fio a tecnologia é do século 19 e
+explora o conceito da indução
+eletromagnética quando uma bobina de
+fios Condutores é alimentada com uma
+corrente alternada ela gera um campo
+eletromagnético forte e também variável
+aproxime uma outra bobina no alcance
+nesse campo e vejo o surgimento de uma
+corrente elétrica induzida
+assim como nos smartphones para passar
+energia para as lentes se aproximar
+algum equipamento que vai gerar o campo
+eletromagnético necessário para
+alimentar o dispositivo garantindo
+fornecimento constante de energia não é
+preciso adicionar baterias por isso
+normalmente as lentes não vão aparecer
+sozinhas no mundo real sendo acompanhada
+de um par de óculos ou outros acessórios
+que funcionam como carregadores sem fio
+em geral o objetivo é remover o máximo
+de coisas possível da lente que vai
+entrar no nosso olho e a gente já
+removeu a bateria Mas é possível remover
+também o armazenamento de dados em vez
+de tentar criar um cartão de memória
+minúsculo e flexível Para incorporar na
+lente é mais viável transmitir pequenas
+quantidades de dados à medida que eles
+são coletados
+transmissões de poucos dados a curtas
+distâncias são perfeitamente viáveis e o
+sistema de comunicação cabe em micro
+chips de menos de um milímetro que são
+incorporados às lentes Por enquanto não
+dá para sonhar com uma transmissão de
+vídeo full HD mas já existem protótipos
+que transmitem imagens e cromáticas de
+baixa resolução por isso conectar a
+lente no computador não faz sentido
+tecnológico que é que os dados não
+estarão armazenados ali já quando a
+mulher gato usa as lentes em uma outra
+cena as imagens são transmitidas
+simultaneamente para Bat Caverna essa
+cena mais fácil de trazer para a
+realidade se as lentes fizessem uma
+transmissão de menor qualidade e curta
+distância Talvez para caixinha da
+própria lente e Alice em dá para enviar
+um cartão de memória e um chip 5g
+transmitindo para qualquer lugar do
+mundo até agora já falamos da fonte de
+energia e da transmissão de dados Falta
+só a câmera e apesar de empresas como a
+Sony já terem registrado patentes de
+lente de contato com câmeras na pesquisa
+desse vídeo eu não encontrei nenhum
+protótipo funcional Porém uma pesquisa
+da Universidade de princeton produziu
+uma câmera completa medindo Um milímetro
+menor que um grão de arroz e apesar
+dessa câmera capturar imagens de bá em
+cima qualidade com ajuda de sistemas de
+inteligência artificial é possível
+reconstruir a imagem em alta resolução o
+que casa super bem com a proposta das
+lentes de contato a gente pode ter micro
+câmeras capturando imagens de baixa
+resolução fáceis de transmitir para o
+servidor na Bat Caverna onde Elas serão
+melhoradas para o Alfred analisar e
+ainda tem muito que dá para falar das
+tecnologias do novo Batman por exemplo o
+grande vacilo do Bruce Wayne pedindo
+para mulher gato fazer longos contatos
+visuais com pessoas perigosas com
+pretexto de que o reconhecimento facial
+iria demorar para funcionar se um dia
+você se encontrar nessa situação fala
+para o Batman tirar um print da tela e
+mandar para o sistema que ele vai
+conseguir reconhecer então sim a
+tecnologia das lentes do Batman é bem
+realista a gente só precisa garantir que
+ela é segura o suficiente para colocar
+nos nossos olhos Enquanto isso não
+acontece deixa aí nos comentários quais
+tecnologias de filme e você gostaria de
+saber mais e nos comentários do em
+Hollywood e serviço de streaming você
+encontra reflexões muito interessantes
+sobre o uso de algoritmos na indústria
+do entretenimento o comentário do Diego
+por exemplo menciona o efeito das bolhas
+sociais e como algoritmos de
+recomendação dificilmente trazem
+diversidade de conteúdo Esse é um dos
+principais desafios dessa tecnologia o
+equilíbrio entre recomendações que você
+com certeza vai curtir Mas podem ser
+repetitivas ou arriscar te recomendar
+algo novo que você pode não gostar esse
+problema afeta um percentual muito
+grande das plataformas online já que
+desde uma pesquisa no Google até a sua
+linha do tempo nas redes sociais são
+basicamente algoritmo de recomendação e
+se você quer ensinar o algoritmo do
+YouTube eu te recomendar vídeos do
+nerdologia a dica é curtir esse vídeo
+compartilhar nas redes sociais que
+assinar o canal para mais conteúdos de
+tecnologia até a próxima tchau tchau
+tchau
+E aí
