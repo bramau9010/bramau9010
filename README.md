@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**bramau9010/bramau9010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+procesamento de linguagem naturak das fakas xe vídeos no YouTube
 
 Neste projeto, nos propomos aplicar as bibliotecas de processamento natural de linguagem, para analisar a similaridade entre vídeos de YouTube pode ser analisada unicamente através das lenas dos vídeos.
 
