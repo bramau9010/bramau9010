@@ -21,6 +21,6 @@ This space is a reflection of my continuous learning journey. I'm constantly exp
 
 I'm always open to discussing new ideas, collaborating on projects, or just talking about tech. Feel free to reach out!
 
-[LinkedIn](https://www.linkedin.com/in/brayan-mauricio-rodriguez-garzon/) | [Personal Website](https://sites.google.com/view/brayanmauricio/about-me) | [Email](bramau901007@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/brayan-mauricio-rodriguez-garzon/) | [Personal Website](https://sites.google.com/view/brayanmauricio/about-me) | [bramau901007@gmail.com](mailto:bramau901007@gmail.com)
 
 
