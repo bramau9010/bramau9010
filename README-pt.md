@@ -19,4 +19,4 @@ Este espaço é um reflexo da minha jornada de aprendizado contínuo. Estou cons
 
 Estou sempre aberto para discutir novas ideias, colaborar em projetos ou simplesmente conversar sobre tecnologia. Sinta-se à vontade para entrar em contato!
 
-[LinkedIn](Your-LinkedIn-URL) | [Site Pessoal](Your-Website-URL) | [Email](your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/brayan-mauricio-rodriguez-garzon/) | [Personal Website](https://sites.google.com/view/brayanmauricio/about-me) |[bramau901007@gmail.com](mailto:bramau901007@gmail.com)
