@@ -1,3 +1,5 @@
+![Meu Banner Profissional](banner_bramau.png) 
+
 [![Read in English](https://img.shields.io/badge/Read%20in-English-green)](README.md)
 
 # Olá, eu sou o Brayan 👋
