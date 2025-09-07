@@ -1,4 +1,5 @@
 
+![Meu Banner Profissional](banner_bramau.png)
 
 [![Read in Portuguese](https://img.shields.io/badge/Leia%20em-Português-blue)](README-pt.md)
 
